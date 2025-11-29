@@ -1,4 +1,4 @@
-# final_boom_bike_assignment
+# Boom_Bike_Project
 
 ## Project Overview
 
